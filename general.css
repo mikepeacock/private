@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+@import url('https://ecrm.vzwshop.com/_resources/white_nav_templates/css/general.css');
+
+	@media (max-width:480px){
+		
+		/* Heights */
+		.h12 {height:12px !important;}
+		.h18 {height:18px !important;}
+		.h19 {height:19px !important;}
+		.h22 {height:22px !important;}
+		.h23 {height:23px !important;}
+		.h40 {height:40px !important;}
+		.h100 {height:100px !important;}
+		.h104 {height:104px !important;}
+		.h218 {height:218px !important;}
+		.h225 {height:225px !important; max-height:225px !important; min-height:225px !important;}
+		.h399 {height:399px !important;}
+		.h400 {height:400px !important;}
+		.h547 {height:547px !important;}
+		
+		.h300 {height:300px !important; max-height:300px !important; min-height:300px !important;}
+		.h388 {height:388px !important; max-height:388px !important; min-height:388px !important;}
+		
+		
+		/* Widths */
+		.w10 {width:10px !important;}
+		.w17 {width:17px !important;}
+		.w25 {width:25px !important;}
+		.w29 {width:29px !important;}
+		.w31 {width:31px !important;}
+		.w36 {width:36px !important;}
+		.w65 {width:65px !important;}
+		
+		/* Paddings */
+		.padR8 {padding-right:18px !important;}
+		.padR18 {padding-right:18px !important;}
+		.padR28 {padding-right:28px !important;}
+				
+		/* Positioning */
+		.posTop54 {top:54px !important;}
+		.posTop60 {top:60px !important;}
+        .posTop200 {top:200px !important;}
+		.posTop250 {top:250px !important;}
+		
+		/* Font-sizes */
+        .fontSize17 {font-size:17px !important;}
+		.fontSize19 {font-size:19px !important;}
+		
+		/* Line-height */
+        .lh21 {line-height:21px !important;}
+		.lh23 {line-height:23px !important;}
+		
+	}
