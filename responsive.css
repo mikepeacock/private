@@ -18,6 +18,7 @@
 		[class="podGutter"], .podGutter {padding-left:3px !important; padding-right:3px !important;}
 		[class="deskHide"], .deskHide {overflow:visible !important; float:none !important; display:block !important; }
 		[class="fltL"], .fltL {float:left !important;}
+        [class="logoCenter"], .logoCenter {align:center !important;}
 		
 		/* Top Navs */
 		
