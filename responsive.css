@@ -63,6 +63,7 @@
 		.h112 {height:112px !important;}
 		.h138 {height:138px !important;}
 		.h212 {height:212px !important;}
+        .h152 {height:152px !important;}
 		.w8 {width:8px !important;}
 		.w24 {width:24px !important;}
 		.w31 {width:31px !important;}
@@ -220,13 +221,15 @@
 		.h40 {height:40px !important;}
 		.h100 {height:100px !important;}
 		.h104 {height:104px !important;}
+        .h116 {height:116px !important;}
 		.h218 {height:218px !important;}
 		.h225 {height:225px !important; max-height:225px !important; min-height:225px !important;}
 		.h399 {height:399px !important;}
 		.h400 {height:400px !important;}
 		.h547 {height:547px !important;}
-		
+		.h232 {height:232px !important; max-height:232px !important; min-height:232px !important;}
 		.h300 {height:300px !important; max-height:300px !important; min-height:300px !important;}
+        .h304 {height:304px !important; max-height:304px !important; min-height:304px !important;}
 		.h388 {height:388px !important; max-height:388px !important; min-height:388px !important;}
 		
 		
@@ -247,6 +250,8 @@
 		/* Positioning */
 		.posTop54 {top:54px !important;}
 		.posTop60 {top:60px !important;}
+        .posTop116 {top:116px !important;}
+        .posTop152 {top:152px !important;}
         .posTop200 {top:200px !important;}
 		.posTop250 {top:250px !important;}
 		
