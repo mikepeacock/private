@@ -103,6 +103,7 @@
 		/* Btm Buttons */
 		[class="height250"], .height250 {height:250px !important; max-height:250px !important; min-height:250px !important;}
 		[class="height140"], .height140 {height:140px !important; max-height:140px !important; min-height:140px !important;}
+        [class="height304"], .height304 {height:304px !important; max-height:304px !important; min-height:304px !important;}
 		[class="height312"], .height312 {height:312px !important; max-height:312px !important; min-height:312px !important;}
 		[class="height210"], .height210 {height:210px !important; max-height:210px !important; min-height:210px !important;}
 		[class="height185"], .height185 {height:185px !important; max-height:185px !important; min-height:185px !important;}
@@ -230,7 +231,6 @@
 		.h547 {height:547px !important;}
 		.h232 {height:232px !important; max-height:232px !important; min-height:232px !important;}
 		.h300 {height:300px !important; max-height:300px !important; min-height:300px !important;}
-        .h304 {height:304px !important; max-height:304px !important; min-height:304px !important;}
 		.h388 {height:388px !important; max-height:388px !important; min-height:388px !important;}
 		
 		
